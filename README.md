@@ -14,3 +14,9 @@ all exercise google colab [here](https://colab.research.google.com/drive/1qZ8KWI
             - nearest n
             - average : *bi-linear, bi-cubic*
         ![interpolation example](https://www.researchgate.net/publication/321881785/figure/fig4/AS:667701148127245@1536203767766/The-true-high-resolution-image-and-comparison-of-interpolation-methods-on-the-a.ppm)
+
+1. 3rd week
+    - my notebook : [here](./week%203/week%203.ipynb)
+    - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture03_Histogram-465640-16927050405224.pdf)
+
+    
