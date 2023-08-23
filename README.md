@@ -18,5 +18,4 @@ all exercise google colab [here](https://colab.research.google.com/drive/1qZ8KWI
 1. 3rd week
     - my notebook : [here](./week%203/week%203.ipynb)
     - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture03_Histogram-465640-16927050405224.pdf)
-
-    
+    - convolution playground [here](https://generic-github-user.github.io/Image-Convolution-Playground/src/)
