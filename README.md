@@ -20,6 +20,11 @@ all exercise google colab [here](https://colab.research.google.com/drive/1qZ8KWI
     - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture03_Histogram-465640-16927050405224.pdf)
     - convolution playground [here](https://generic-github-user.github.io/Image-Convolution-Playground/src/)
 
+1. 4th week
+    - my notebook : [here](./week%204/week%204.ipynb)
+    - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture04_FrequencyDomain-465640-16933262682077.pdf)
+    
+
 ---
 
 ## Homework
