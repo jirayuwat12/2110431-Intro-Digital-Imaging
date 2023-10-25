@@ -24,7 +24,19 @@ all exercise google colab [here](https://colab.research.google.com/drive/1qZ8KWI
     - my notebook : [here](./week%204/week%204.ipynb)
     - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture04_FrequencyDomain-465640-16933262682077.pdf)
     
+1. 5th week
+    - my notebook : [here](/week%205/week%205.ipynb)
+    - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture06_Restoration-465640-16939721433106.pdf)
 
+1. 6th week
+    - my notebok : [here](/week%206/week%206.ipynb)
+    - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture05_Wavelets-465640-16945301517701.pdf)
+
+1. 7th week
+    - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture07_ImageCompression-465640-16951657915254.pdf)
+
+1. 8th week
+    - lecture [here](https://mycourseville-default.s3.ap-southeast-1.amazonaws.com/useruploaded_course_files/2023_1/39246/materials/Lecture08_Segmentation_PART_I-465640-16963950287846.pdf)
 ---
 
 ## Homework

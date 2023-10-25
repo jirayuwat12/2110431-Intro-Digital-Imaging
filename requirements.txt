@@ -38,3 +38,8 @@ scikit-image==0.21.0
 matplotlib==3.7.2
 opencv-python==4.8.0.76
 pydicom==2.4.2
+scikit-learn
+tensorflow
+torch
+torchvision
+torchsummary
